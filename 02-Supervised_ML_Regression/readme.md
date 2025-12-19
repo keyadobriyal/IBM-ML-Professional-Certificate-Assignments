@@ -7,8 +7,16 @@ By the end of this course you should be able to:
 - Articulate why regularization may help prevent overfitting
 - Use regularization regressions: Ridge, LASSO, and Elastic net
  
-Who should take this course?
-This course targets aspiring data scientists interested in acquiring hands-on experience  with Supervised Machine Learning Regression techniques in a business setting.
- 
-What skills should you have?
-To make the most out of this course, you should have familiarity with programming on a Python development environment, as well as fundamental understanding of Data Cleaning, Exploratory Data Analysis, Calculus, Linear Algebra, Probability, and Statistics.
+The assignment to complete module required to apply regression techniques to analyze a dataset of your choice. 
+
+The task was to preprocess the data, build and compare models, extract insights, and suggest next steps.
+
+**Learning Objectives**
+- Describe the dataset and its key features.
+- Clearly state the goal of the analysis.
+- Apply and compare linear regression models.
+- Present key findings from the analysis.
+- Identify model flaws and suggest improvements.
+- Evaluate the model using an AI tool
+
+I used famous IRIS dataset for completing the assignment.
